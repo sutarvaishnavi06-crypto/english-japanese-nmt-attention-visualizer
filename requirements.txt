@@ -1,0 +1,6 @@
+torch>=2.0.0
+flask>=3.0.0
+datasets>=2.14.0
+sudachipy>=0.6.8
+sudachidict_core>=20230110
+tqdm>=4.65.0
